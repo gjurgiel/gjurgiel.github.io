@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  gjurgiel
 
 # Build settings
-theme: no-style-please
+# theme: no-style-please
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
