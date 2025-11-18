@@ -7,28 +7,35 @@ entries:
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: Projects
-    - title: Personal Projects
-      entries:
-      - title: God Capacitors 
-      - title: Pyrotechnics Firing Box
-      - title: Analog 
+    entries:
+      - title: Personal Projects
+        post_list:
+          category: personal-projects
+          limit: 5
+          show_more: true
+          show_more_text: See more...
 
-    - title: Projects for Clubs
-      entires:
-      - title: MIT SEVT BMS
-      - title: MIT UHF Repeater Association Lightning Arrestor
+      - title: Projects for Clubs
+        post_list:
+          category: club-projects
+          limit: 5
+          show_more: true
+          show_more_text: See more...
 
-    - title: Reaserch Projects
-      entries:
-      - title: HV Optocoupler Amplifier
-      - title: HV Psuedo-Resonant Inverter
+      - title: Research Projects
+        post_list:
+          category: research-projects
+          limit: 5
+          show_more: true
+          show_more_text: See more...
 
-    - title: Class Projects
-      entries:
-#      - title: 6.S892 Final Project - 2kW Single to Three Phase Converter
-#      - title: 6.2050 Final Prject - LIDAR Cave Mapping
-      - title: 6.6220 Final Project - 100W Buck Converter
-      - title: 6.2040 Final Project - Analog Synth
+      - title: Class Projects
+        post_list:
+          category: class-projects
+          limit: 5
+          show_more: true
+          show_more_text: See more...
 
   - title: Leadership
-    - title: The Flea at MIT - Swapfest
+    entries:
+      - title: The Flea at MIT - Swapfest

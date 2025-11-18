@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: George Jurgiel Personal Site
+title: George Jurgiel's Personal Website
 email: gcjurgiel@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -30,11 +30,11 @@ twitter_username: jekyllrb
 github_username:  gjurgiel
 
 # Build settings
-# theme: no-style-please
+#theme: no-style-please
 remote_theme: riggraz/no-style-please
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
