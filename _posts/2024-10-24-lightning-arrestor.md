@@ -6,7 +6,7 @@ category: club-projects
 
 The [MIT UHF Repeater Association](https://web.mit.edu/w1xm/www/) maintains and operates a VHF/UHF amature radio station on top of the Green Building (building 54) along with a UHF Reapeater and the Radome, a radar dish primarly used for radio astronomy.
 
-![MIT Green Building](2024-10-24-lightning-arrestor-files/bldg_54.jpg "Building 54")
+![MIT Green Building]({{site.url}}/assests/2024-10-24-lightning-arrestor-files/bldg_54.jpg "Building 54")
 
 As with all radio equipment on top of a tall building, there is a string possbility of lightining strikes damaging equipment. Each of the antennas mounted on the roof have thier own commercial lightning arrestors designed for protecting our equipment from a direct strike. However many other auzillary controlls cables, such as those for antena rotors, and LNA switching, also need some protection. This protection does not need to withstand a direct strike which woudl likely hit one of the buildings many lgihtning rods of anoptehr protected antenna, but they would likely see a current and voltage spike from the large E and B feilds such a strike could produce. Therefor we designed a small DIN rail mount board to provide additioal protection to the rotor, LNA switching controllers, and any other connections we may make to equipment on the roof.
 
